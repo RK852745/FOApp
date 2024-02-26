@@ -1,0 +1,48 @@
+-----------Exception Details on  26-05-2023 6.08.42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26-05-2023 6.08.42 PM
+
+Error Line No : line 76
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  26-05-2023 8.27.49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26-05-2023 8.27.49 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,24 @@
+-----------Exception Details on  17-02-2023 12.41.03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-02-2023 12.41.03 PM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodGetDataForUpdate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

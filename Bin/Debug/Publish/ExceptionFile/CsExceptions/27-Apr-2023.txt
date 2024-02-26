@@ -1,0 +1,201 @@
+-----------Exception Details on  27-04-2023 12.46.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 12.46.14 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 12.46.34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 12.46.34 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 12.46.43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 12.46.43 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 12.47.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 12.47.17 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 2.40.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 2.40.16 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Ambiguous column name 'FullName'.
+Ambiguous column name 'DriverNumber'.
+Ambiguous column name 'OperatorNumber'.
+Ambiguous column name 'Downloads'.
+Ambiguous column name 'StickerImage'.
+Ambiguous column name 'StickerSize'.
+Ambiguous column name 'LaneFrom'.
+Ambiguous column name 'LaneTo'.
+Ambiguous column name 'VehicleType'.
+Ambiguous column name 'VehicleSize'.
+Ambiguous column name 'VehicleCapacity'.
+Ambiguous column name 'VechileNumber'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddLocalVisitDataintodatabase
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 2.41.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 2.41.10 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Ambiguous column name 'FullName'.
+Ambiguous column name 'DriverNumber'.
+Ambiguous column name 'OperatorNumber'.
+Ambiguous column name 'Downloads'.
+Ambiguous column name 'StickerImage'.
+Ambiguous column name 'StickerSize'.
+Ambiguous column name 'LaneFrom'.
+Ambiguous column name 'LaneTo'.
+Ambiguous column name 'VehicleType'.
+Ambiguous column name 'VehicleSize'.
+Ambiguous column name 'VehicleCapacity'.
+Ambiguous column name 'VechileNumber'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddLocalVisitDataintodatabase
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-04-2023 2.42.34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-04-2023 2.42.34 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Ambiguous column name 'FullName'.
+Ambiguous column name 'DriverNumber'.
+Ambiguous column name 'OperatorNumber'.
+Ambiguous column name 'Downloads'.
+Ambiguous column name 'StickerImage'.
+Ambiguous column name 'StickerSize'.
+Ambiguous column name 'LaneFrom'.
+Ambiguous column name 'LaneTo'.
+Ambiguous column name 'VehicleType'.
+Ambiguous column name 'VehicleSize'.
+Ambiguous column name 'VehicleCapacity'.
+Ambiguous column name 'VechileNumber'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddLocalVisitDataintodatabase
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

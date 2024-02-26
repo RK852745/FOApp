@@ -1,0 +1,313 @@
+-----------Exception Details on  25-02-2023 10.32.13 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 10.32.13 AM
+
+Error Line No : line 60
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 1.18.47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 1.18.47 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx/MethodGetDataforAdmin
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 1.20.11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 1.20.11 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx/MethodGetDataforAdmin
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 1.20.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 1.20.24 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx/MethodGetDataforAdmin
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 2.05.30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 2.05.30 PM
+
+Error Line No : line 53
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 4.19.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 4.19.28 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx?dLOkaTExSGRUvxlfJz3hd%2bPdviPLy0ts26ncArxb6Y7zPSiHxTSnVF5ygT2B3bMXt8LQ%2bZ6OAVqFchDtEw3ydPc70ze0cMxf2WnwMPoH1hlcsDPTgX%2ffe2rRGWXdvNj3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 4.19.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 4.19.28 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx?dLOkaTExSGRUvxlfJz3hd%2bPdviPLy0ts26ncArxb6Y7zPSiHxTSnVF5ygT2B3bMXt8LQ%2bZ6OAVqFchDtEw3ydPc70ze0cMxf2WnwMPoH1hlcsDPTgX%2ffe2rRGWXdvNj3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 4.19.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 4.19.36 PM
+
+Error Line No : line 86
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx?dLOkaTExSGRUvxlfJz3hd%2bPdviPLy0ts26ncArxb6Y7zPSiHxTSnVF5ygT2B3bMXt8LQ%2bZ6OAVqFchDtEw3ydPc70ze0cMxf2WnwMPoH1hlcsDPTgX%2ffe2rRGWXdvNj3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 5.19.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 5.19.24 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 5.19.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 5.19.24 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 5.19.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 5.19.24 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 5.19.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 5.19.24 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-02-2023 5.19.25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-02-2023 5.19.25 PM
+
+Error Line No : line 68
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

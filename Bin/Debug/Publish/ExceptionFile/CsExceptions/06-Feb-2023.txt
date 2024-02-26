@@ -1,0 +1,144 @@
+-----------Exception Details on  06-02-2023 10.24.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 10.24.28 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'Pro_GetEncrptedKey'.
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-02-2023 10.24.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 10.24.28 PM
+
+Error Line No : line 23
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-02-2023 11.10.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 11.10.45 PM
+
+Error Line No : line 35
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-02-2023 11.10.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 11.10.45 PM
+
+Error Line No : line 35
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-02-2023 11.11.05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 11.11.05 PM
+
+Error Line No : line 77
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPmof5yjyMx5vvEuKotOKvNKgxw1JlB%2bj6%2bwFxZ3d8qIIJSwGPowDGD988TNIp9Nj3mZA0u96QC9exd7KjCGFkqD
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-02-2023 11.11.19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-02-2023 11.11.19 PM
+
+Error Line No : line 77
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPmof5yjyMx5vvEuKotOKvNKpBKHfrYiUhl8vJXz3hvj9ZrMtWQu6d7KNJmQspWmOoaDm7silzXG%2fxKfMrZsIgk5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

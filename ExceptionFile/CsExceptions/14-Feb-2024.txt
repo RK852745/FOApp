@@ -1,0 +1,336 @@
+-----------Exception Details on  14-02-2024 12.57.19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 12.57.19 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.01.02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.01.02 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.01.56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.01.56 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.03.12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.03.12 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.04.09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.04.09 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.06.44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.06.44 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.10.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.10.40 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.10.51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.10.51 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.12.26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.12.26 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.14.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.14.28 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.17.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.17.16 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.18.41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.18.41 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 1.19.09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 1.19.09 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-02-2024 3.54.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-02-2024 3.54.14 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@DiscountAmount', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

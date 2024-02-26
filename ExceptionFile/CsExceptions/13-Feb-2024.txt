@@ -1,0 +1,408 @@
+-----------Exception Details on  13-02-2024 11.21.58 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.21.58 AM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.22.46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.22.46 AM
+
+Error Line No : line 68
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.27.11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.27.11 AM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.41.00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.41.00 AM
+
+Error Line No : line 68
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.41.40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.41.40 AM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.43.09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.43.09 AM
+
+Error Line No : line 68
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.43.22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.43.22 AM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.43.25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.43.25 AM
+
+Error Line No : line 68
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.44.08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.44.08 AM
+
+Error Line No : line 58
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 11.44.14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 11.44.14 AM
+
+Error Line No : line 68
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName?CategoryName=Fastag
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 12.20.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 12.20.36 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @GetProductDetailsByCategory is not a parameter for procedure ManageProductDetails.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductName
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.01.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.01.20 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.04.27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.04.27 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.04.47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.04.47 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.05.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.05.22 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.05.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.05.36 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-02-2024 4.06.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2024 4.06.22 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ManageProductDetails' expects parameter '@OrderId', which was not supplied.
+
+Error Page Url: http://localhost:65242/GPSandFastTag.aspx/GetProductDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

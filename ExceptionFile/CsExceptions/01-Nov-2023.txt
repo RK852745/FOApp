@@ -1,0 +1,197 @@
+-----------Exception Details on  01-11-2023 12.59.26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 12.59.26 PM
+
+Error Line No : line 53
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 12.59.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 12.59.28 PM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 2.49.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 2.49.46 PM
+
+Error Line No : line 53
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 2.50.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 2.50.20 PM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 4.01.19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 4.01.19 PM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 6.49.32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 6.49.32 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Index.aspx?LdpBVD1IOdkJTxMTYwTTSobepw4JO6VRv%2fSAE2FoGbHLgUodS0gRFD3PbITiaRDZ3jQpA7eoeCynjXL0aCdJ%2bChdnF5Oix8liO%2bkFApuU0Ab0EnFrG9W3SH9v2eyVUaT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 6.49.32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 6.49.32 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Index.aspx?LdpBVD1IOdkJTxMTYwTTSobepw4JO6VRv%2fSAE2FoGbHLgUodS0gRFD3PbITiaRDZ3jQpA7eoeCynjXL0aCdJ%2bChdnF5Oix8liO%2bkFApuU0Ab0EnFrG9W3SH9v2eyVUaT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-11-2023 6.50.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-11-2023 6.50.18 PM
+
+Error Line No : line 71
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Index.aspx?LdpBVD1IOdkJTxMTYwTTSobepw4JO6VRv%2fSAE2FoGbHLgUodS0gRFD3PbITiaRDZ3jQpA7eoeCynjXL0aCdJ%2bChdnF5Oix8liO%2bkFApuU0Ab0EnFrG9W3SH9v2eyVUaT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

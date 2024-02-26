@@ -1,0 +1,768 @@
+-----------Exception Details on  27-09-2023 4.56.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.56.46 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.56.57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.56.57 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.56.58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.56.58 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.02 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.02 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.02 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Invalid operation. The connection is closed.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.03 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.19 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.28 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.29 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 4.57.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 4.57.33 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Implicit conversion from data type varchar(max) to varbinary(max) is not allowed. Use the CONVERT function to run this query.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.24.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.24.28 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.03 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.05 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.06 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.06 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.07 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.13 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.13 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.38.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.38.14 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.39.26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.39.26 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.39.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.39.45 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.39.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.39.45 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.39.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.39.46 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.39.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.39.46 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.40.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.40.14 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.40.44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.40.44 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.40.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.40.45 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.41.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.41.16 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.44.57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.44.57 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.45.37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.45.37 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  27-09-2023 5.52.38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-09-2023 5.52.38 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_StickerMasterDhaba has too many arguments specified.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodDhabaVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

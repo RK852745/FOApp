@@ -1,0 +1,746 @@
+-----------Exception Details on  20-02-2023 3.43.35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.43.35 PM
+
+Error Line No : ine 177
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.44.13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.44.13 PM
+
+Error Line No : ine 177
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.46.09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.46.09 PM
+
+Error Line No : ine 179
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.47.52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.47.52 PM
+
+Error Line No : ine 179
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.53.50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.53.50 PM
+
+Error Line No : ine 179
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.58.35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.58.35 PM
+
+Error Line No : ine 179
+
+Error Message: ProtocolViolationException
+
+Exception Type: System.Net.ProtocolViolationException
+
+Error Location : Cannot send a content-body with this verb-type.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.58.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.58.40 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.59.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.59.10 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.59.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.59.10 PM
+
+Error Line No : ine 179
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.59.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.59.10 PM
+
+Error Line No : ine 179
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 3.59.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 3.59.10 PM
+
+Error Line No : ine 179
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.01.53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.01.53 PM
+
+Error Line No : ine 179
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.05.05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.05.05 PM
+
+Error Line No : ine 173
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.05.06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.05.06 PM
+
+Error Line No : ine 173
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.08.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.08.39 PM
+
+Error Line No : ine 173
+
+Error Message: WebException
+
+Exception Type: System.Net.WebException
+
+Error Location : The remote server returned an error: (404) Not Found.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/Getapirequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.16.55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.16.55 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.16.55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.16.55 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.17.38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.17.38 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 4.17.38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 4.17.38 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 5.03.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 5.03.14 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 5.03.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 5.03.14 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 5.03.14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 5.03.14 PM
+
+Error Line No : line 41
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.21 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.21 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.22 PM
+
+Error Line No : line 41
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-02-2023 8.53.44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-02-2023 8.53.44 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

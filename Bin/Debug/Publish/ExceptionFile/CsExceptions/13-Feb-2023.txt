@@ -1,0 +1,24 @@
+-----------Exception Details on  13-02-2023 2.46.00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-02-2023 2.46.00 PM
+
+Error Line No : line 50
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

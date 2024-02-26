@@ -1,0 +1,48 @@
+-----------Exception Details on  17-03-2023 10.37.52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-03-2023 10.37.52 AM
+
+Error Line No : line 92
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/MethodAddNewVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-03-2023 11.01.37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-03-2023 11.01.37 AM
+
+Error Line No : line 92
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/MethodAddNewVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,192 @@
+-----------Exception Details on  01-03-2023 11.17.29 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.17.29 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @Status is not a parameter for procedure ProAddNewVisit.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/MethodAddNewVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.18.34 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.18.34 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @Status is not a parameter for procedure ProAddNewVisit.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/MethodAddNewVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.19.16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.19.16 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @Status is not a parameter for procedure ProAddNewVisit.
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx/MethodAddNewVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.55.14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.55.14 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.56.05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.56.05 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.56.13 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.56.13 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 11.56.37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 11.56.37 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-03-2023 1.12.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-03-2023 1.12.28 PM
+
+Error Line No : line 53
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

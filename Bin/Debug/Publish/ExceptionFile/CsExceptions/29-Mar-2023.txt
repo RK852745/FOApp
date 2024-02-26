@@ -1,0 +1,48 @@
+-----------Exception Details on  29-03-2023 11.44.56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-03-2023 11.44.56 AM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx/MethodGetFieldofficers
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  29-03-2023 11.44.56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-03-2023 11.44.56 AM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Dashboard.aspx/MethodGetFieldofficers
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

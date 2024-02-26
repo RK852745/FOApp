@@ -1,0 +1,649 @@
+-----------Exception Details on  25-04-2023 4.06.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 4.06.17 PM
+
+Error Line No : line 71
+
+Error Message: CryptographicException
+
+Exception Type: System.Security.Cryptography.CryptographicException
+
+Error Location : Padding is invalid and cannot be removed.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 4.06.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 4.06.17 PM
+
+Error Line No : line 71
+
+Error Message: CryptographicException
+
+Exception Type: System.Security.Cryptography.CryptographicException
+
+Error Location : Padding is invalid and cannot be removed.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 4.06.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 4.06.17 PM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 4.06.41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 4.06.41 PM
+
+Error Line No : line 71
+
+Error Message: CryptographicException
+
+Exception Type: System.Security.Cryptography.CryptographicException
+
+Error Location : Padding is invalid and cannot be removed.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3wQ0wzItIK6kDwZzX2G23daVCZ8fmKQhvliSjyIoc%2bJUfTKeGY9tqXrzfh17M4lzY
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 5.56.57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 5.56.57 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 5.56.57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 5.56.57 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 5.57.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 5.57.17 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 7.43.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 7.43.18 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 7.43.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 7.43.18 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 7.47.08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 7.47.08 PM
+
+Error Line No : ine 143
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.29.19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.29.19 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.29.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.29.20 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.31.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.31.16 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.31.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.31.16 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.34.24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.34.24 PM
+
+Error Line No : ine 143
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.35.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.35.33 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.35.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.35.33 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.36.35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.36.35 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.36.35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.36.35 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.36.43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.36.43 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.36.43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.36.43 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.41.12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.41.12 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.41.12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.41.12 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.42.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.42.28 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.42.28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.42.28 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.43.07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.43.07 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-04-2023 9.43.07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-04-2023 9.43.07 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodAddNewStickerVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

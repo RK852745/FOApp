@@ -1,0 +1,672 @@
+-----------Exception Details on  21-03-2023 2.50.08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.50.08 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.50.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.50.10 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.50.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.50.17 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.50.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.50.17 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.09 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.09 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.21 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.21 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.22 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.22 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.22 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.23 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.23 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.23 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.23 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3MjxHinyLPwazxga0JMQUV8LrFaFrAjzWAilUobTh8PnN0myikWcTV5FnDyIAkBmv
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.23 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.43 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3qCQ7Kq8PjYV1YRX1c%2feXOQOx4Y2p7wgZ7hkoVFJkp5Thi39%2bAjOD27C69WzO2WtH
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.43 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.51.59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.51.59 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.52.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.52.40 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3Pz3rYpzL%2b8mEJVrEHFv%2ffYwBLXkeZHO9yqnpj7OfuOM3FQjbhlqoSLtGsrEajQCo
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.52.41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.52.41 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.52.59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.52.59 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hdzJBn%2fW4ByjMKjWl2Y7LRPlgXK%2br%2bYX44AcsCSGuK2P3Pz3rYpzL%2b8mEJVrEHFv%2ffYwBLXkeZHO9yqnpj7OfuOM3FQjbhlqoSLtGsrEajQCo
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 2.53.03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 2.53.03 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'ProAddNewVisit' expects parameter '@SharedTo', which was not supplied.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 3.00.32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 3.00.32 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 3.00.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 3.00.33 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 3.00.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 3.00.33 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 3.00.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 3.00.33 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2023 3.00.33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2023 3.00.33 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

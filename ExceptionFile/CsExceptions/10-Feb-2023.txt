@@ -1,0 +1,192 @@
+-----------Exception Details on  10-02-2023 10.20.25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 10.20.25 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodGetDataForUpdate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 10.22.47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 10.22.47 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodGetDataForUpdate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 10.23.47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 10.23.47 AM
+
+Error Line No : line 48
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodGetDataForUpdate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 10.31.02 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 10.31.02 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodGetDataForUpdate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 3.07.27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 3.07.27 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @updateid is not a parameter for procedure ProUpdateVisitData.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdatedatabyid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 3.12.56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 3.12.56 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @updateid is not a parameter for procedure ProUpdateVisitData.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdatedatabyid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 4.42.30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 4.42.30 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 4.44.31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 4.44.31 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+Error Page Url: http://localhost:65242/Update.aspx/MethodUpdateVisitData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

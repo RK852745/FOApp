@@ -1,0 +1,168 @@
+-----------Exception Details on  01-02-2024 2.46.04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.46.04 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 2.46.37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.46.37 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 2.47.06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.47.06 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 2.49.26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.49.26 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 2.49.30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.49.30 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 2.49.42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 2.49.42 PM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Error Page Url: http://localhost:65242/Login.aspx/CheckCredentials
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-02-2024 4.07.06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-02-2024 4.07.06 PM
+
+Error Line No : ine 115
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx?TXbu9NfHkj1ciOOmDKiItTSQWEJtQRDP7uVSaoq3BisM9gamzCC7jAXRm6IySDUeZKnzb8RxvtMpqQG8MhAmF0JGXTqKVLzt25if49g26dAtOeFCeEERruP0y76z8MZx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

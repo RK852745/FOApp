@@ -1,0 +1,48 @@
+-----------Exception Details on  01-10-2023 8.59.18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-10-2023 8.59.18 AM
+
+Error Line No : line 36
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-10-2023 8.59.18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-10-2023 8.59.18 AM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

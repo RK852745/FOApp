@@ -1,0 +1,25 @@
+-----------Exception Details on  13-04-2023 10.51.28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-04-2023 10.51.28 AM
+
+Error Line No : line 47
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

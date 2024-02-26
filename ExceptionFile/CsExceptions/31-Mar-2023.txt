@@ -1,0 +1,316 @@
+-----------Exception Details on  31-03-2023 11.05.01 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 11.05.01 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 11.05.18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 11.05.18 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 11.05.22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 11.05.22 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 11.05.41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 11.05.41 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.02.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.02.10 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.02.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.02.10 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.02.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.02.10 PM
+
+Error Line No : line 43
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.03.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.03.20 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.03.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.03.20 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 3.03.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 3.03.20 PM
+
+Error Line No : line 43
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 4.36.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 4.36.18 PM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 4.36.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 4.36.18 PM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  31-03-2023 4.36.18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31-03-2023 4.36.18 PM
+
+Error Line No : line 43
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Report.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

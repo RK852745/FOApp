@@ -1,0 +1,817 @@
+-----------Exception Details on  25-09-2023 11.18.24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.18.24 AM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Index
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.18.24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.18.24 AM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Index
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.18.24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.18.24 AM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+Error Page Url: http://localhost:65242/Index
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.18.24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.18.24 AM
+
+Error Line No : line 61
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+Error Page Url: http://localhost:65242/Index
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.18.24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.18.24 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.25.05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.25.05 AM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.25.05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.25.05 AM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.25.10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.25.10 AM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.25.10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.25.10 AM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.25.10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.25.10 AM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.29.03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.29.03 AM
+
+Error Line No : line 52
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.46.52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.46.52 AM
+
+Error Line No : line 41
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.47.07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.47.07 AM
+
+Error Line No : line 41
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 11.48.04 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 11.48.04 AM
+
+Error Line No : line 41
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.36 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.39 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.39 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.39 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.39 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.39 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.40 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.40 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.40 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.43.40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.43.40 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 12.59.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 12.59.16 PM
+
+Error Line No : line 52
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  25-09-2023 5.41.16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25-09-2023 5.41.16 PM
+
+Error Line No : ine 266
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

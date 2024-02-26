@@ -1,0 +1,24 @@
+-----------Exception Details on  21-10-2023 4.39.30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-10-2023 4.39.30 PM
+
+Error Line No : line 56
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

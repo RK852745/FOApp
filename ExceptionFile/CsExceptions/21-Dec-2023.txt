@@ -1,0 +1,99 @@
+-----------Exception Details on  21-12-2023 10.28.45 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-12-2023 10.28.45 AM
+
+Error Line No : line 57
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-12-2023 11.11.09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-12-2023 11.11.09 AM
+
+Error Line No : line 51
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/Index.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-12-2023 11.11.15 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-12-2023 11.11.15 AM
+
+Error Line No : line 57
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index and length must refer to a location within the string.
+Parameter name: length
+
+Error Page Url: http://localhost:65242/VisitingRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-12-2023 11.11.31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-12-2023 11.11.31 AM
+
+Error Line No : ine 115
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hd4Dni%2fivfpuWATU%2bum1sXGz3Cu7LXWV3MLBkIkZVO6h6pS2HBcmiG%2bBDhitRTo8v4CyXImXP9XJoL4ntbfNe46eJjy432ImnxBTjfpdvg3mB
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

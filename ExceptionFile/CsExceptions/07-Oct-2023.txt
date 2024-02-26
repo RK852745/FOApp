@@ -1,0 +1,528 @@
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.54 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.55 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.55 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 10.47.57 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 10.47.57 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx/MethodCheckMobileNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 2.24.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 2.24.10 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 2.24.10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 2.24.10 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Index.aspx/Getcounts
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 5.47.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 5.47.46 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Index.aspx/MethodGetDataByCurrentDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 5.47.46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 5.47.46 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'TrucksUp.dbo.tbl_trucksup_profile'.
+
+Error Page Url: http://localhost:65242/Index.aspx/Getcounts
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 8.32.00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 8.32.00 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'GetCountOfthedaybyuserid'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 8.43.08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 8.43.08 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'GetCountOfthedaybyuserid'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 8.45.45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 8.45.45 PM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'GetCountOfthedaybyuserid'.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-10-2023 8.49.17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-10-2023 8.49.17 PM
+
+Error Line No : ine 103
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CountOfTheDayByUserId' does not belong to table Table.
+
+Error Page Url: http://localhost:65242/Stickers.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

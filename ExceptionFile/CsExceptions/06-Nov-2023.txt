@@ -1,0 +1,24 @@
+-----------Exception Details on  06-11-2023 3.40.20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-11-2023 3.40.20 PM
+
+Error Line No : ine 117
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+Error Page Url: http://localhost:65242/Index.aspx?dLOkaTExSGRUvxlfJz3hd3cgNGbJlKhqNGuubnQ4jFNngsW1TrDxMdDybXEJd1tAk%2fbHRfkjYQ9awu60OVOr%2bFrjdB3K0SZ393wsj3omOTwNe9RGk1va7udbpYZrTz0Q
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
